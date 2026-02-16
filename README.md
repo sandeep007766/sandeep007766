@@ -8,7 +8,7 @@
 
 ### :man_technologist: About Me :
 
-<p align="justify">Having 4 years of experience as a DevOps Engineer, I bring a unique blend of expertise in software development, infrastructure management, and software delivery. My career journey spans hands-on experience with both DevOps and Cloud splatforms, where I have excelled in leveraging cutting-edge technologies to drive efficiency and also allows me to bridge the gap between development, operations, and quality assurance, driving seamless project execution and delivery. I am passionate about leveraging my diverse skill set to tackle complex challenges and deliver exceptional results.</p>
+<p align="justify">Having 3 years of experience as a DevOps Engineer, I bring a unique blend of expertise in software development, infrastructure management, and software delivery. My career journey spans hands-on experience with both DevOps and Cloud splatforms, where I have excelled in leveraging cutting-edge technologies to drive efficiency and also allows me to bridge the gap between development, operations, and quality assurance, driving seamless project execution and delivery. I am passionate about leveraging my diverse skill set to tackle complex challenges and deliver exceptional results.</p>
 
 - 💻 Check my Projects and other Repos [HERE](https://github.com/sandeep007766?tab=repositories)
 
